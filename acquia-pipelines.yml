@@ -1,7 +1,7 @@
 version: 1.0.0
 variables:
   global:
-    N3_KEY: d973a74f-2b8d-4d58-b24d-8db8faa52aa8
+    N3_KEY: 971a87fc-e659-478a-8e96-d367a94e79ae 
     # For the POC to work, you must add the N3_SECRET environment variable
     # containing your Cloud API secret key:
     #
