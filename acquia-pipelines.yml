@@ -1,13 +1,13 @@
 version: 1.0.0
 variables:
   global:
-    N3_KEY: a0a38cad-423f-414b-b34a-a012b315e901
+    N3_KEY: c90a1081-6874-487e-9e8f-9d30b35245a1
     # For the POC to work, you must add the N3_SECRET environment variable
     # containing your Cloud API secret key:
     #
     # echo -n 'your secret' | pipelines encrypt - --add variables.global.N3_SECRET
     N3_SECRET:   
-      secure: 2acun8r6zAKJWq/HZCYKaU/L5BFVkmb0qLbZ0+JDKY5/q/iDEDi5rloYvho/cdiMY1/ySbMHnPKipo2VdL8EBFfJdEqOw11HdZndz1rzT5Z1ysJLm9fxrVPWIkr6bOcDbZ6KO6JpG4xnBcT+0A7BpnEh1wQ8wDxm4iIYMitALeiswbe9hSanGZ+MWYdv8Wpia5UjMZCgP5rLZDUNc+YY7HoTM9mNuPbZM40+EeoqWGchMq4dXqgqKYEmPwB/wgqcq2TrWe+Ndt2pGM+FNTqFYHhXMNQgpOBhvh+SMBKKFDO0FO+o95P8Y5yWSuPloTKVDTlMcphYpYg/L0eB9AbpeXSL8z2Jo+JGtZYfqxPs40XxYGcWOQI8nKqh2zMR2Khgmc/BMdIy5lOVARp0U4QW7VIWDUEMhEod60/gV8x4LsKWRIJss2QokY8IpMY8HHo24VpTQf8ny/+LBPT5i1K2FL2e/i8rv7brFFp0E/GMtUye/j4gH41gc0oR4/JMv0fkCHRH2oNw/ci4t8Hhmj7cSDRr7wkOzgiay6yjmZIv2JpGN4VoVIG3HeG/vwzPGX5TP+nPIVOPedAsZm8cxqVh9capRfGcU/4W38kYmdIKVAADUyfajIoJ0BSt4rFQnchN2ojqpFu3nSXZN9Acu0IZHmKa1o+B2C5TB2840hoZE6jd9Y=PyiO8i7mJMW8/+qtvGyJQXDMaQ4UNuwzTKSGOqGCRmHzISb6HuZr+zoNDNbQ7Njz4iqwM+uT1wBvJcHIxLrnm1uJXldYgKloG0l4mEqwhuKmNd5WD77PzNY3kjz66CMX
+      secure: 2ac1LMQ8TIxXeS8guo0P9EnNkp/RC1Gm6c+V8m4pS6Q7HsaoA3bB4xCrqz839hEAJAsnYy62Y9DCGB1aOEjwmdhaRGmh1ib4XlarnwynWY+Se9UomNynA+5PVGyrEfmCA1N4VjxaT8kZayhrXemuE4KadJEVodtF23AWhWyK6KLuoLt+bEgcenlBBORYoWkctgNO2wXnHLwu2Be3fNuMK6auiHw/mU0gW3i60kU6m+5wjbH7TYn1fRD48T+S/7a2Er/9cPCcIAOz7pMg0xmfd9ua1Udbej30GC5yXU3tw+lsue0I7BJj+g6CVUul4kCfZ2hBSsR+/QnzdH+3rEdg7PXzTNL34vFHD1XnPQeramIKRMF7JblgYeNfb1zQiS3nwCMWg9Oa4JQRRXG5MJdJ2VyCkQ39i6Erv6JaqSP04wxur8GC6NKacBJ7w0TZP/Z+LvnqiM2lTPF7Y2D7pCyOPylAWz/vML21C2xRpQxSzl+P6Xw9r5r/z0OmgtAJwoilGkFaW2ruKQH+JFbm8wDbTQZdOp2JEDEseLydicgUUxSzXjKcEbLrIyvS8OnlZbsBmJ33FfNrZddqEoFeWOtb/u/nVWyfwus2aX0XXYGg1vnN9LXltV4NoF2PQ1es5Xdk0EMfQVff4OBsA9YFVlTWJQ2MT0sNWPVBIKXnCF2CunSUXc=a4zYZtS11UnzapFVvftpZ7LqL/oZDXGbojKkCNoYGkJtMXTt+7nH+ZaVpv8l3LQVjbiAxJ09aamVNh4meARp6UJUW+0oSox4BqaBzaqeRNK3NknkoO9wzEJW8LstV1E9dpdFGfaMB4B6qNjfSEeTGWvh443RZpwttJVzFGStx44=    
     PIPELINES_DEPLOY_URL: https://github.com/acquia/pipelines-examples/releases/download/deploy-latest/pipelines-deploy
     PIPELINES_DEPLOY_TOOL: $HOME/pipelines-deploy
 events:
