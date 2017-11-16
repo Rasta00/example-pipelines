@@ -2,14 +2,4 @@ This dummy file is used to demonstrate triggering a pipelines build.
 It's super cool because of the auto-build technology! Let's test and see what it does... 
 Running a new test - June 9 roll out.  
 new test
-Accenture demo.i
-New test 
-WA DEMO Test
-New Test for City of Chandler
-James' Test
-A small test to kick off pipelines.
-Here is a change to kick off a pipeline job.
-Here is a test at UofM
-Here is my live UofM change.
-New test - Rob
-Voa test
+Baseline. 
