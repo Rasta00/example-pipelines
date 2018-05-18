@@ -1,10 +1,3 @@
 This dummy file is used to demonstrate triggering a pipelines build.
 It's super cool because of the auto-build technology! Let's test and see what it does... 
-Running a new test
-New test 2/7/2018
-New test 2/14/2018
-New test pre-demo 3/22/2018
-Change for Mike
-Change for Nuglif
-Here is a Friday afternoon change.
-This is test for GBC.
+New test 
