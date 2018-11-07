@@ -9,3 +9,4 @@ New demo test 9/26/2018
 SSO config test. 10/17/2018
 New test
 Quick edit to kick-off pipelines.
+Videotron commit example.
