@@ -1,12 +1,3 @@
 This dummy file is used to demonstrate triggering a pipelines build.
 It's super cool because of the auto-build technology! Let's test and see what it does... 
-New test on 5/18/2018. 
-New test 6/7/2018. 
-Here's a new test of deployed code 6/27. 
-Quick edit - 7/11/2018. 
-New Edit 9/12/2018. 
-New demo test 9/26/2018
-SSO config test. 10/17/2018
-New test
-Quick edit to kick-off pipelines.
-Videotron commit example.
+New edit - test prep. 
