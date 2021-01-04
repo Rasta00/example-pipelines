@@ -18,28 +18,4 @@ New demo test
 fNew test today. 
 Rockwell automation test.
 New code edit. 
-Updating file. 
-New update 5/22/2019
-New test update 6/25/2019
-New test 6/27/2019. 
-Here is a build test 6/27/2019
-Here is a pipelines build 7/18/2019
-This is a new update from Stephanie. 
-New test here 
-We'll add a new build here. 
-This is a new change. 
-And another new change. 
-Adding a new change to show EL our integrated CI/CD.
-Adding some new text for CareFirst demo on June 22, 2020.
-New update to simulate code push. 
-Accenture ci/cd demo
-CICD example for demo
-Demo to EL InfoSec/EA
-Adding some text for demo purposes.
-Adding in some new build code.
-Even more new build code. 
-Testing concurrent builds 1. 
-Here is a code base build test.
-Another code change 11/5/2020
-New change 12/9/2020
-New update
+New update to the code Jan. 4, 2021
